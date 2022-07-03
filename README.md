@@ -5,7 +5,7 @@
   <img src="https://i.ibb.co/YbwcKVt/IMG-20220703-WA0091.jpg" width="300" height="300">
 	<div align="center">
 
-  <h1> WHATSAPP MD BOT 🔥𝙱𝚈 - 𝙎𝘼𝙑𝙄 🔥</h1></div></div></div>
+  <h1> WHATSAPP MD BOT 🔥𝙱𝚈 - 𝙎𝘼𝙑𝙄 𝙏𝙀𝘼𝙈🔥</h1></div></div></div>
 
 
 ### QR CODE
