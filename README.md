@@ -12,7 +12,7 @@
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@MenakaNilupul/SL-PROGRAMMERS?v=1)
 
 ### Deploy Page
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Blacksavi/QUEEN-NETHU)
 </div>
 
 
@@ -45,7 +45,7 @@ Add FFmpeg to PATH environment variable
 
 * Scan QR In Your Whatsapp From [Here](https://replit.com/@MenakaNilupul/SL-PROGRAMMERS?v=1)
 * Fork This Repo By Clicking [Here](https://github.com/Blacksavi/QUEEN-NETHU)
-* then Deploy The Bot From [Here](https://heroku.com/deploy)
+* then Deploy The Bot From [Here](https://heroku.com/deploy)[Here](https://heroku.com/deploy?template=https://github.com/Blacksavi/QUEEN-NETHU)
 * Wait 5-10 Min To Deploy 
 * After Deploying On The Worker And Check The Logs
 
