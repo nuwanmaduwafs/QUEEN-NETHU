@@ -16,11 +16,11 @@
 </div>
 
 
-> [Automated Multi Device whatsapp bot created](https://github.com/cyberdev001/SL-PROGRAMMERS-MD) by [CYBER_DEVIL](https://github.com/cyberdev001)
+> [Automated Multi Device whatsapp bot created](https://github.com/Blacksavi/QUEEN-NETHU) by [B͟L͟A͟C͟K͟ S͟A͟V͟I͟](https://github.com/Blacksavi)
 
 > IF Heroku Deploy seems Error, Fork This Repo And Try Deploy Again
 
-> If The Api Of This Bot Run Empty You Can Change it To Your Own Api By Changing [Here]https://github.com/cyberdev001/SL-PROGRAMMERS-MD/blob/master/settings.js#L18) And Register [here](https://zenzapis.xyz/) to get apikey
+> If The Api Of This Bot Run Empty You Can Change it To Your Own Api By Changing [Here]https://github.com/Blacksavi/QUEEN-NETHU/blob/master/settings.js#L18) And Register [here](https://zenzapis.xyz/) to get apikey
 
 
 </br>
