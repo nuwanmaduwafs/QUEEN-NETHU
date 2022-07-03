@@ -2,7 +2,7 @@
 	
 
 <div align="center">
-  <img src="https://telegra.ph/QUEEN-NETHU-07-03" width="300" height="300">
+  <img src="https://telegra.ph/QUEEN-NETHU-07-03.jsp" width="300" height="300">
 	<div align="center">
 
   <h1> WHATSAPP MD BOT 🔥𝙱𝚈 - 𝙎𝘼𝙑𝙄 🔥</h1></div></div></div>
