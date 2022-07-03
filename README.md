@@ -44,7 +44,7 @@ Add FFmpeg to PATH environment variable
 <b><details><summary>Start via Heroku</summary></b>
 
 * Scan QR In Your Whatsapp From [Here](https://replit.com/@MenakaNilupul/SL-PROGRAMMERS?v=1)
-* Fork This Repo By Clicking [Here](https://github.com/cyberdev001/SL-PROGRAMMERS-MD)
+* Fork This Repo By Clicking [Here](https://github.com/Blacksavi/QUEEN-NETHU)
 * then Deploy The Bot From [Here](https://heroku.com/deploy)
 * Wait 5-10 Min To Deploy 
 * After Deploying On The Worker And Check The Logs
@@ -66,7 +66,7 @@ Add FFmpeg to PATH environment variable
 > pkg install ffmpeg -y 
 > pkg install wget
 > pkg install imagemagick -y
-> git clone https://github.com/cyberdev001/SL-PROGRAMMERS-MD
+> git clone https://github.com/Blacksavi/QUEEN-NETHU
 > cd Gojo-Satoru
 > npm install
 ```
